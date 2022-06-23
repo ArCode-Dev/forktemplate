@@ -1,0 +1,8 @@
+group:
+  - files:
+      - source: text-1.txt
+        dest: text-1.txt
+    # templates: |
+      # aryaanggara/testtemplate
+    repos: |
+      aryaanggara/testtemplate
